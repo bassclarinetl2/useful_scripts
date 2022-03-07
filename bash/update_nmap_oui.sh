@@ -30,7 +30,7 @@ set -o nounset
 nmp="nmap-mac-prefixes"
 src="/usr/share/nmap/$nmp"
 oui="oui.txt"
-url="http://standards-oui.ieee.org/oui/$oui"
+url="https://standards-oui.ieee.org/oui/$oui"
 
 # ----- 
 # The original author likes logging
